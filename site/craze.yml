@@ -1,0 +1,20 @@
+site:
+  title: "Craze"
+  url: "https://ydah.github.io/craze"
+  language: "en"
+
+build:
+  out_dir: "dist"
+  base_path: "/craze"
+  clean: true
+
+content:
+  dir: "content"
+
+templates:
+  dir: "templates"
+
+assets:
+  dir: "assets"
+
+integrations: []
